@@ -4,3 +4,6 @@
 [submodule "prereq/prereq-ts"]
 	path = prereq/prereq-ts
 	url = https://github.com/DavidBolaji/prereq-ts.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/solana-turbin3/solana-starter.git
