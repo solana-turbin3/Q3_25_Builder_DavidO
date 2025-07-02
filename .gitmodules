@@ -1,0 +1,6 @@
+[submodule "prereq/prereq-rust"]
+	path = prereq/prereq-rust
+	url = https://github.com/DavidBolaji/prereq-rust.git
+[submodule "prereq/prereq-ts"]
+	path = prereq/prereq-ts
+	url = https://github.com/DavidBolaji/prereq-ts.git
