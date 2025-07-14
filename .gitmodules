@@ -10,6 +10,3 @@
 [submodule "solana-gill-starter"]
 	path = solana-gill-starter
 	url = https://github.com/DavidBolaji/solana-gill-starter.git
-[submodule "vault"]
-	path = vault
-	url = https://github.com/DavidBolaji/vault.git
