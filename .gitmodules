@@ -13,3 +13,6 @@
 [submodule "defi-primitives/escrow"]
 	path = defi-primitives/escrow
 	url = https://github.com/DavidBolaji/escrow.git
+[submodule "defi-primitives/amm"]
+	path = defi-primitives/amm
+	url = https://github.com/DavidBolaji/amm.git
