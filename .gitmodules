@@ -16,3 +16,6 @@
 [submodule "defi-primitives/amm"]
 	path = defi-primitives/amm
 	url = https://github.com/DavidBolaji/amm.git
+[submodule "capstone-gillrank"]
+	path = capstone-gillrank
+	url = https://github.com/DavidBolaji/capstone-gillrank.git
